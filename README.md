@@ -17,9 +17,9 @@
 
 ### ✨ What is Orbiton?
 
-> **Orbiton** is a modern Go backend framework designed for productivity, speed, and modularity — built with developer experience at its core.
+> **Orbiton** is a modern Go backend framework designed for productivity, speed, and modularity - built with developer experience at its core.
 
-Whether you're building REST APIs, event-driven systems, or microservices — Orbiton gives you everything you need:
+Whether you're building REST APIs, event-driven systems, or microservices - Orbiton gives you everything you need:
 
 - ⚙️ Modular structure
 - 🧩 CLI and plugin system
@@ -50,7 +50,7 @@ cd my-app
 orbiton dev
 ```
 
-📚 Full Documentation →
+[📚 Full Documentation →](https://github.com/Orbiton-Framework/orbiton/docs)
 
 ### ❤️ Join the Orbiton Community
 We’re building Orbiton for developers like you.
